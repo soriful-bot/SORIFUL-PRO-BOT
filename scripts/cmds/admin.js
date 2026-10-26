@@ -6,7 +6,7 @@ module.exports = {
 		name: "admin",
 		aliases: ["abal", "operator", "op"],
 		version: "3.3",
-		author: "〲MAMUNツ࿐ T.T o.O",
+		author: "〲SORIFULツ࿐ T.T o.O",
 		countDown: 5,
 		role: 0,
 		shortDescription: {
@@ -71,8 +71,8 @@ module.exports = {
 
 		// 👑 MAIN ADMIN
 		const OWNER = [
-			"61595489399118",
-			"61595057655929"
+			"100094048760684",
+			"100094048760684"
 		];
 
 		const isOwner = OWNER.includes(senderID);
